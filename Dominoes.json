@@ -1,10 +1,10 @@
 {
-  "allCardsUrl": "https://www.cardgamesimulator.com/games/Dominoes/AllCards.json",
-  "allSetsUrl": "https://www.cardgamesimulator.com/games/Dominoes/AllSets.json",
-  "autoUpdateUrl": "https://www.cardgamesimulator.com/games/Dominoes/Dominoes.json",
-  "bannerImageUrl": "https://www.cardgamesimulator.com/games/Dominoes/Banner.png",
-  "cardBackImageUrl": "https://www.cardgamesimulator.com/games/Dominoes/CardBack.png",
-  "cardImageUrl": "https://www.cardgamesimulator.com/games/Dominoes/sets/{cardSet}/{cardId}.{cardImageFileType}",
+  "allCardsUrl": "https://raw.githubusercontent.com/davidmfinol/my-game/main/AllCards.json",
+  "allSetsUrl": "https://raw.githubusercontent.com/davidmfinol/my-game/main/AllSets.json",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/davidmfinol/my-game/main/Dominoes.json",
+  "bannerImageUrl": "https://raw.githubusercontent.com/davidmfinol/my-game/main/Banner.png",
+  "cardBackImageUrl": "https://raw.githubusercontent.com/davidmfinol/my-game/main/CardBack.png",
+  "cardImageUrl": "https://raw.githubusercontent.com/davidmfinol/my-game/main/sets/{cardSet}/{cardId}.{cardImageFileType}",
   "cardPrimaryProperty": "suit",
   "cardProperties": [
     {
